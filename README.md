@@ -32,6 +32,8 @@
 ##### &nbsp; 🚀 &nbsp; I'm still an apprendice, so there will be a lot to improve, but, hey, I did this readme by myself! <br/> <br/>
 ##### &nbsp; 📌 &nbsp; Yup, I'm Brazilian, but I decided to write and code in English in order to show how good I am.
 ##### &nbsp; 💾 &nbsp; I am a very curious person when talking about technology, so I also know a little about shellscript and I am always looking for the best ways to code. Although I am not very familiar with some codes, languages or frameworks It shouldn't be a problem to work with them all. A good developer is a good curious searcher.
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 	
 <!--
 
