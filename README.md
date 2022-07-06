@@ -1,19 +1,21 @@
 # Hi and welcome to my profile 🤓
-<!-- octocat -->
+
 <img src="https://user-images.githubusercontent.com/81657425/177418766-d43a1956-5fb5-40d2-8945-c2e894934f10.png" width="40%" height="auto" align="right"/>
 
-##### I'm 21 from RJ - Brazil and I'm a beginner but also a fighter (only technically meaning).
-<p align="center"> Let's GO!! <p/>
-<!-- gif do casimiro -->
-<div align="center"> <img src="https://i.giphy.com/media/xTI7mKff34dJAYgfzX/giphy.webp" width="312" height="199"/> <div/>
+##### I'm 21 from RJ - Brazil and I'm a beginner but also a fighter (only technically meaning). Created this profile to organize and save all my projects and so (maybe) others could keep up aswell. <p align="center"> LET'S GO!! <p/>
+
+<div align="center"> <img src="https://i.giphy.com/media/cFdHXXm5GhJsc/giphy.webp" width="312" height="199"/> </div>
+
+
 
 ### Here you are some of my social medias to get myself started!
-<br/>
-<!-- social medias -->
-<a href="https://www.linkedin.com/in/lucaspinarj/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://wa.me/5521970362496?text=Hi,%20Lucas!" target="_blank"> <img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" width="50" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/luscaprj/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/> </a>
-	
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lucaspinarj/" target="_blank" alt="Linkedin"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/> </a> &nbsp;&nbsp;
+<a href="https://wa.me/5521970362496?text=Hi,%20Lucas!" target="_blank" alt="Whatsapp"> <img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" width="50" height="50"/> </a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/luscaprj/" target="_blank" alt="Instagram"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50"/> </a>
+</p>
+
 # 
 ### 🖥 &nbsp;Technologies and Tools<br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> </a> &nbsp;&nbsp;
@@ -30,14 +32,13 @@
 
 #
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=lucaspinarj&hide_title=true&layout=compact&theme=github_dark&show_icons=true&count_private=true" width="40%" height="auto" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lucaspinarj&hide_title=true&layout=compact&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true" width="40%" height="auto" align="right"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspinarj&layout=compact&theme=github_dark" width="40%" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspinarj&layout=compact&theme=github_dark&langs_count=7" width="40%" height="auto"/>
 
 <p align="center">
 <img src="https://github.com/lucaspinarj/lucaspinarj/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 <!--
 
