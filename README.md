@@ -2,9 +2,10 @@
 <!-- octocat -->
 <img src="https://user-images.githubusercontent.com/81657425/177418766-d43a1956-5fb5-40d2-8945-c2e894934f10.png" width="40%" height="auto" align="right"/>
 
-##### I'm 21 from RJ - Brazil. I'm a beginner but also a fighter (technically). <br/> Let's go!!! <br/>
+##### I'm 21 from RJ - Brazil and I'm a beginner but also a fighter (only technically meaning).
+<p align="center"> Let's GO!! <p/>
 <!-- gif do casimiro -->
-<img src="https://i.giphy.com/media/xTI7mKff34dJAYgfzX/giphy.webp" width="312" height="199" align="center"/> <br/><br/>
+<div align="center"> <img src="https://i.giphy.com/media/xTI7mKff34dJAYgfzX/giphy.webp" width="312" height="199"/> <div/>
 
 ### Here you are some of my social medias to get myself started!
 <br/>
@@ -25,7 +26,7 @@
 ##### &nbsp; 📚 &nbsp; I am currently focusing on Java studies and trying to apply principles and design patterns to my codes to give them a clean appearance. And I also have a lot interest in Javascript and I already have started to get comfortable with the language, projects coming soon. <br/><br/>
 ##### &nbsp; 🚀 &nbsp; I'm still an apprendice, so there will be a lot to improve, but, hey, I did this readme by myself! <br/> <br/>
 ##### &nbsp; 📌 &nbsp; Yup, I'm Brazilian, but I decided to write and code in English in order to show how good I am. <br/> <br/>
-##### &nbsp; 💾 &nbsp; I am a very curious person when talking about technology, so I also know a little about shellscript and I am always looking for the best ways to code. Although I am not very familiar with some codes, languages or frameworks It shouldn't be a problem to work with them all. A good developer is a good curious searcher.
+##### &nbsp; 💾 &nbsp; I am a very curious person when talking about technology, so I also know a little about shellscript... and I am always looking for the best ways to code. Although I am not very familiar with some codes, languages or frameworks It shouldn't be a problem to work with them all. A good developer is a good curious searcher.
 
 #
 <br/>
