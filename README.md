@@ -1,8 +1,8 @@
-# Hi and welcome to my profile 🤓
+# Hi and welcome to my profile! 🤓
 
 <img src="https://user-images.githubusercontent.com/81657425/177418766-d43a1956-5fb5-40d2-8945-c2e894934f10.png" width="30%" height="auto" align="right"/>
 
-##### I'm 21 from Rio de Janeiro, Brazil and I'm a beginner but also a fighter (only technically meaning). Created this profile to organize and save all my projects and so (maybe) others could keep up aswell. <p align="center"><br> LET'S GO!! <p/>
+##### I'm 21 from Rio de Janeiro, Brazil and I'm a beginner but also a **fighter** (only technically meaning). Created this profile to organize and save all my projects and so (maybe) others could keep up aswell. <p align="center"><br> LET'S GO!! <p/>
 
 <!-- target="_blank" nao funciona nem alt="vasco" -->
 <div align="center">
