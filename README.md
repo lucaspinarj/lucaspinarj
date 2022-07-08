@@ -3,7 +3,8 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" heigth="auto" width="auto">](https://wa.me/5521970362496?text=Hi,%20Lucas!)
 [<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" heigth="auto" width="auto">](https://join.skype.com/invite/klGAaRZtfkEh)
 ---
-Hey! I'm just trying to find my way up in software development. <br>
+Hey!👋🏼 <br><br>
+I'm just trying to find my way up in software development. <br>
 Feel free to chat me or check the projects out!
 <br><br>
 I'm still an apprendice, so there will be some to improve, but I am working hard to upgrade my abilities, my projects and myself as a dev.
@@ -21,10 +22,15 @@ I am currently focusing on **Java** studies and applying **principles** and **de
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50" width="50"/>
 </p>
+<br>
+<p align="right">
+Thank you for your visit!
+</p>
 
 ---
 
 <!--START_SECTION:waka-->
+
 **I'm an Early 🐤** 
 
 ```text
