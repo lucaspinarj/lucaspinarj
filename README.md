@@ -21,3 +21,6 @@ I am currently focusing on Java studies and applying principles and design patte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50" width="50"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
