@@ -1,13 +1,23 @@
 <!-- Social Media -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" heigth="auto" width="auto">](https://www.linkedin.com/in/lucaspinarj/)
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" heigth="auto" width="auto">](https://wa.me/5521970362496?text=Hi,%20Lucas!)
-[<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" heigth="auto" width="auto">](https://join.skype.com/invite/klGAaRZtfkEh)<br>
-Hey! I'm just trying to 
+[<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" heigth="auto" width="auto">](https://join.skype.com/invite/klGAaRZtfkEh)
+---
+Hey! I'm just trying to find my way up in software development. <br>
+Feel free to chat me or check the projects out!
+<br><br>
+I'm still an apprendice, so there will be some to improve, but I am working hard to upgrade my abilities, my projects and myself as a dev.
+<br><br>
+Yup, I'm Brazilian, and I decided to write and code in English in order to show how good I am.
+<br><br>
+I am currently focusing on Java studies and applying principles and design patterns to my codes to give them a clean looking. And I also have a lot interest in Javascript and I already have started to get comfortable with the language, _projects coming soon_. 
+<br><br>
+* **Technologies and Tools**
 <!-- Technologies and Tools -->
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="4.8%" width="4.8%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="auto" width="4.8%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="4.8%" width="4.8%" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth="4.8%" width="4.8%"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="4.8%" width="4.8%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth="50" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50" width="50"/>
 </p>
