@@ -10,7 +10,7 @@ I'm still an apprendice, so there will be some to improve, but I am working hard
 <br><br>
 Yup, I'm Brazilian, and I decided to write and code in English in order to show how good I am.
 <br><br>
-I am currently focusing on Java studies and applying principles and design patterns to my codes to give them a clean looking. And I also have a lot interest in Javascript and I already have started to get comfortable with the language, _projects coming soon_. 
+I am currently focusing on **Java** studies and applying **principles** and **design patterns** to my codes to give them a clean looking. And I also have a lot interest in Javascript and I already have started to get comfortable with the language, _projects coming soon_. 
 <br><br>
 * **Technologies and Tools**
 <!-- Technologies and Tools -->
@@ -21,6 +21,8 @@ I am currently focusing on Java studies and applying principles and design patte
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" heigth="50" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50" width="50"/>
 </p>
+
+---
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
