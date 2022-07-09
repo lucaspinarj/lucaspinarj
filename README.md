@@ -19,7 +19,7 @@ Yup, I'm Brazilian, and I decided to write and code in English in order to show 
 I am currently focusing on **Java** studies and applying **principles** and **design patterns** to my code to give them a clean looking style. And I also have a lot interest in **Javascript** and I already have started to get comfortable with the language, _projects coming soon_. 
 <br><br>
 
-* **Technologies and Tools**
+* **Technologies and Tools** <br>
 <!-- Technologies and Tools -->
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="50" width="50"/> &nbsp;
@@ -35,24 +35,4 @@ Thank you for your visit!
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    35 commits     █████████████░░░░░░░░░░░░   53.03% 
-🌃 Evening    28 commits     ██████████░░░░░░░░░░░░░░░   42.42% 
-🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
 <!--END_SECTION:waka-->
