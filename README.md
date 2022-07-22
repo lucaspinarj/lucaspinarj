@@ -11,12 +11,12 @@
 I'm just trying to find my way up in software development. <br>
 Feel free to chat me or check the projects out!
 <br><br>
-I'm still an apprentice, so there will be some to improve, but I am working hard to upgrade my abilities, my projects and myself as a dev.
+I'm still an apprentice, so there will be some to improve, but I believe on capacity and I'm working hard to upgrade my abilities, my projects and myself as a dev constantly.
 <br><br>
-Yup, I'm Brazilian, and I decided to write and code in English in order to show how good I am.
+Yup, I'm Brazilian, and I decided to write and code in English in order to show how fluent I am.
 <br><br>
 
-I am currently focusing on **Java** studies and applying **principles** and **design patterns** to my code to give them a clean looking style. And I also have a lot interest in **Javascript** and I already have started to get comfortable with the language, _projects coming soon_. 
+I am currently focusing on **Java** studies and applying **principles** and **design patterns** to my code to give them a clean and correct looking design. And I also have a lot interest in **Javascript** and I already have started to get comfortable with the language, _projects coming soon_. 
 <br><br>
 
 * **Technologies and Tools** <br>
