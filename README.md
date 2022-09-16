@@ -11,9 +11,9 @@
 I'm just trying to find my way up in software development. <br>
 Feel free to chat me or check the projects out!
 <br><br>
-I'm still an apprentice, so there will be some to improve, but I believe on capacity and I'm working hard to upgrade my abilities, my projects and myself as a dev constantly.
+I'm still an apprentice, so there will be some to improve, but I believe on my capacity and I'm working hard to upgrade my abilities, my projects and myself as a dev and a person constantly.
 <br><br>
-Yup, I'm Brazilian, and I decided to write and code in English in order to show how fluent I am.
+Yup, I'm Brazilian, and I decided to write and (sometimes) code in English in order to keep practicing. :)
 <br><br>
 
 I am currently focusing on **Java** studies and applying **principles** and **design patterns** to my code to give them a clean and correct looking design. And I also have a lot interest in **Javascript** and I already have started to get comfortable with the language, _projects coming soon_. 
@@ -23,7 +23,7 @@ I am currently focusing on **Java** studies and applying **principles** and **de
 <!-- Technologies and Tools -->
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" heigth="50" width="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="50" width="50"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" heigth="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" heigth="50" width="50"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" heigth="50" width="50"/> &nbsp;
