@@ -16,7 +16,7 @@ I'm still an apprentice, so there will be some to improve, but I believe on my c
 Yup, I'm Brazilian, and I decided to write and (sometimes) code in English in order to keep practicing. :)
 <br><br>
 
-I am currently focusing on backend studies and applying **principles** and **design patterns** to my code to give them a clean and correct looking design. And I also have a lot interest in **Javascript** and I already have started to get comfortable with the language, _projects coming soon_. 
+I am currently focusing on backend studies and applying **principles** and **design patterns** to my code to give them a clean and correct looking design. I am also studying some Angular as you can follow my studyies above. 
 <br><br>
 
 * **Technologies and Tools** <br>
