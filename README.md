@@ -40,21 +40,21 @@ Thank you for your visit!
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-🌆 Daytime                93 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌃 Evening                107 commits         ███████████░░░░░░░░░░░░░░   43.15 % 
-🌙 Night                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+🌞 Morning                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                94 commits          █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                107 commits         ███████████░░░░░░░░░░░░░░   42.97 % 
+🌙 Night                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Tuesday                  48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Thursday                 84 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Friday                   69 commits          ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Tuesday                  49 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Thursday                 84 commits          ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Friday                   69 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 
@@ -74,11 +74,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+CSS                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
