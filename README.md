@@ -37,6 +37,40 @@ Thank you for your visit!
 ---
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                94 commits          █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                107 commits         ███████████░░░░░░░░░░░░░░   42.97 % 
+🌙 Night                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Tuesday                  49 commits          █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Wednesday                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Thursday                 84 commits          ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Friday                   69 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Saturday                 10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
